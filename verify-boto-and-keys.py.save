@@ -1,0 +1,14 @@
+#this is a python code to verify the keys
+
+import pycurl
+
+requeste
+keys = ""
+
+print "Please enter the Key service"
+
+keys = raw_input(keys)
+
+request.get(keys)
+
+print keys
